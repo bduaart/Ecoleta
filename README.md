@@ -2,7 +2,8 @@
 
 ## Next Level Week
 Esta aplicação web foi feita durante a semana de código da Next Level Week.
-O NLW é uma semana prática com muito código, desafios, networking e um único objetivo: te levar para o próximo nível.
+O NLW é uma semana prática com muito código, desafios, networking.
+Distribuído pela <a href="https://rocketseat.com.br/"Rocketseat">Rockseat</a>
 
 ### 🏠 Homepage
  <img src="doc/ecoleta.png">
