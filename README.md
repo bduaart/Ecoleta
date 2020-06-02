@@ -3,8 +3,8 @@
 ## Next Level Week
 O NLW é uma semana prática com muito código, desafios, networking e um único objetivo: te levar para o próximo nível.
 
-### 🏠 [Homepage]
-    <img src="doc/ecoleta.png">
+### 🏠 Homepage
+ <img src="doc/ecoleta.png">
 
 ## Author
 
