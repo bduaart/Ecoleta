@@ -1,7 +1,6 @@
 #page-create-point {
     width: 90%;
     max-width: 1100px;
-
     margin: 0 auto;
 }
 
@@ -16,7 +15,6 @@
 #page-create-point header a {
     color: var(--title-color);
     font-weight: bold;
-
     display: flex;
     align-items: center;
 }
@@ -24,27 +22,22 @@
 #page-create-point header a span {
     margin-right: 16px;
     background-image: url('../assets/arrow-left.svg');
-
     display: flex;
-
     width: 20px;
     height: 24px;
 }
 
 form {
     background-color:white;
-
     margin: 80px auto;
     margin-top: 80px;
     padding: 64px;
-
     border-radius: 8px;
     max-width: 730px;
 }
 
 form h1 {
     font-size: 36px;
-
 }
 
 form fieldset {
@@ -54,7 +47,6 @@ form fieldset {
 
 form legend{
     margin-bottom: 40px;
-
 }
 
 form legend h2 {
@@ -77,7 +69,6 @@ form input, form select {
     border: 0;
     padding: 16px 24px;
     font-size: 16px;
-
     border-radius: 8px;
 
 }
@@ -100,18 +91,13 @@ form .field-group .field + .field {
 form button {
     width: 260px;
     height: 56px;
-
     background-color: var(--primary-color);
     border-radius: 8px;
-
     color: white;
     font-weight: bold;
     font-size: 16px;
-
     border: 0;
-
     margin-top: 40px;
-
     transition: background-color 400ms;
 }
 
@@ -128,31 +114,24 @@ form button:hover{
 .items-grid li{
     background-color: #f5f5f5;
     list-style: none;
-
     border: 2px solid #f5f5f5;
     border-radius: 8px;
-    
     height: 180px;
     padding: 32px 24px 16px;
-
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: space-between;
-
     text-align: center;
-
     cursor: pointer;
 }
 
 
 .items-grid li span {
     margin-top: 12px;
-
     flex: 1;
     display: flex;
     align-items: center;
-    
     color: var(--title-color);
 }
 
