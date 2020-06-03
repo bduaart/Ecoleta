@@ -2,32 +2,35 @@
     #page-home {
         background-position-x: 70vw;
     }
-
-    #page-home .content{
+    #page-home .content {
         align-items: center;
         text-align: center;
     }
-
     #page-home header a {
-        position: fixed;
+        position: absolute;
         bottom: 48px;
-    
         left: 50%;
         transform: translateX(-50%);
     }
-
     #page-home main {
         align-items: center;
+    }
+    #page-search-results .cards {
+        grid-template-columns: 1fr;
+    }
+    #page-search-results .cards img {
+        height: 250px;
     }
 }
 
 @media (min-width: 1700px) {
-    background-position-x: 40vw;
+    #page-home {
+        background-position-x: 40vw;
+    }
 }
 
-
 @media (max-height: 760px) {
-    #page-home{
-    background-position-y: 200px;;
+    #page-home {
+        background-position-y: 150px;
     }
 }
