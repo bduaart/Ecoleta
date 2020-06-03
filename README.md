@@ -6,7 +6,7 @@ O NLW é uma semana prática com muito código, desafios, networking.
 Distribuído pela <a href="https://rocketseat.com.br"> Rockseat </a>
 
 ### 🏠 Homepage
- <img src="doc/ecoleta.png">
+ <img src="doc/screenecoleta.png">
 
 ## Author
 
