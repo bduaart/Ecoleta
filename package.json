@@ -1,0 +1,15 @@
+{
+  "name": "nlw",
+  "version": "1.0.0",
+  "description": "<center><img src=\"doc/logo.svg\"> </center>",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
